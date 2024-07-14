@@ -7,6 +7,7 @@ import canva from "../images/canva.png"
 import ps from "../images/ps.png"
 import djs from "../images/djs.png"
 import travel from "../images/travel.png"
+import social from "../images/Social Media .png"
 export const Bio = {
   name: "Prabhanshu Tiwari",
   roles: [
@@ -364,10 +365,9 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+    title: "Unilink",
+    date: "March 2024 - May 2024",
+    description:"Unlink connects students with alumni for mentorship, guidance, and career opportunities. This web app bridges the gap between academia and professionals, empowering the next generation to succeed. Students can network with experienced alumni, access valuable advice, and build meaningful relationships. Unlink features advanced search, personalized mentorship, event listings, and job postings. Join Unlink to tap into the collective wisdom of your alma mater's alumni community and unlock your potential.",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
@@ -375,12 +375,12 @@ export const projects = [
       "MongoDb",
       "Node Js",
       "Express Js",
-      "Redux",
-      "NodeMailer",
+      "Web sockets",
+      
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/Hunshiro/Unilink",
+    webapp: "https://unilink-ebon.vercel.app/",
   },
   // {
   //   id: 2,
@@ -422,32 +422,32 @@ export const projects = [
   //   github: "https://github.com/rishavchanda/Buckoid-Android-App",
   //   webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   // },
-  {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
-  },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
-  },
+  // {
+  //   id: 10,
+  //   title: "Job Finding App",
+  //   date: "Jun 2023 - Jul 2023",
+  //   description:
+  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+  //   image:
+  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+  //   tags: ["React Native", "JavaScript", "Axios"],
+  //   category: "android app",
+  //   github: "https://github.com/rishavchanda/Job-finder-App",
+  //   webapp: "https://github.com/rishavchanda/Job-finder-App",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Whatsapp Clone",
+  //   date: "Jul 2021",
+  //   description:
+  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+  //   category: "web app",
+  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+  //   webapp: "https://whatsapp-clone-rishav.web.app",
+  // },
   {
     id: 5,
     title: "Todo Web App",
