@@ -8,7 +8,7 @@ import ps from "../images/ps.png"
 import djs from "../images/djs.png"
 import travel from "../images/travel.png"
 import social from "../images/Social Media .png"
-import blogtube from "../images/Blogtube 3.mp4"
+import blogtube from "../images/Blogtube.png"
 
 export const Bio = {
   name: "Prabhanshu Tiwari",
@@ -369,8 +369,7 @@ export const projects = [
     title: "Unilink",
     date: "March 2024 - May 2024",
     description:"Unlink connects students with alumni for mentorship, guidance, and career opportunities. This web app bridges the gap between academia and professionals, empowering the next generation to succeed. Students can network with experienced alumni, access valuable advice, and build meaningful relationships. Unlink features advanced search, personalized mentorship, event listings, and job postings. Join Unlink to tap into the collective wisdom of your alma mater's alumni community and unlock your potential.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    image:social,
     tags: [
       "React Js",
       "MongoDb",
