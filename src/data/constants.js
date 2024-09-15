@@ -22,7 +22,7 @@ export const Bio = {
     "I'm a final-year BTech CSE student with a passion for innovative technology and creative problem-solving. As I approach the culmination of my academic journey, I'm excited to take the next step in my professional path through an internship opportunity",
   github: "https://github.com/Hunshiro",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1-SysUgvHY-90GuGZ5fDkWpCMRQEK1D5p/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prabhanshu-tiwari-13b702224/",
   twitter: "https://x.com/prabhanshut8",
   insta: "https://www.instagram.com/dariuss.exe/",
